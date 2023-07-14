@@ -8,6 +8,7 @@ By this app you can manipulate your Text data like to make it uppercase, remove 
 
 ## TextUtils App
 
+Click here to see app - 
 https://abhisheksoni2.github.io/textutils/
 
 ### `npm start`
